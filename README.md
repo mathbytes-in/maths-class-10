@@ -1,2 +1,2 @@
 # class-10
-CBSE class 10 related important files
+CBSE/NCERT Class 10 related useful files and documents.
